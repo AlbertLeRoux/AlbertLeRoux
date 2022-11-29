@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlbertLeRoux
 - 👀 I’m interested in Raspberry Pi, Databases, Application Development, Electronics, Electronics Repair (specifically amplifier repair)
-- 🌱 I’m currently learning how to use GitHub, MariaDB
+- 🌱 I’m currently learning how to use GitHub, MariaDB and Python
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me ...
 
